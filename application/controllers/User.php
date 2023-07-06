@@ -5,6 +5,6 @@ class user extends CI_Controller
 {
 	public function index()
 	{
-		echo "Hello World";
+		echo "Hack by yang tersakiti";
 	}
 }
